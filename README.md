@@ -5,17 +5,22 @@
 
 > Places you should visit in Tokyo.
 
-#### Ramen
+### Where to ear and drink
+
+#### Ramen :ramen:
 + Afuri: http://afuri.com/
 + Ippudo: http://www.ippudo.com/
 
-#### Sushi
+#### Sushi :sushi:
 + Sushi zanmai: http://www.kiyomura.co.jp/
 + Shunkashuutou: https://tabelog.com/cn/tokyo/A1303/A130301/13014528/
 
 #### Yakiniku
 + Rukumatokyo: https://tabelog.com/tokyo/A1303/A130301/13058009/
 + Rambo azabu: https://tabelog.com/tokyo/A1307/A130702/13127898/
+
+### Where to meet and work
++ OSS Cafe: http://www.osscafe.net/en/
 
 ## License
 
