@@ -9,6 +9,11 @@
 
 ## City guide
 
+### Where to stay
++ SHIBUYA GRANBELL HOTEL: http://www.granbellhotel.jp/en/shibuya/
++ Tokyu Stay Shibuya: http://www.tokyustay.co.jp/e/hotel/SIB/
++ Shibuya Tokyu REI Hotel: http://www.tokyuhotelsjapan.com/en/hotel/TR/TR_SHIBU/index.html
+
 ### Where to ear and drink
 
 #### Ramen :ramen:
