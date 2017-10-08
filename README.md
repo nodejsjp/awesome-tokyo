@@ -22,6 +22,12 @@
 ### Where to meet and work
 + OSS Cafe: http://www.osscafe.net/en/
 
+## Useful Links
+
++ [japan-guide.com](https://www.japan-guide.com/) - Everything about modern and traditional Japan with emphasis on travel and living related information.
++ [Japan National Tourism Organization](https://www.jnto.go.jp/eng/) - Official Japan tourism organization website
++ [Open Source Tokyo](https://github.com/opensourcecities/tokyo) - A directory of companies, people, and projects that are Open Source and from Tokyo
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
