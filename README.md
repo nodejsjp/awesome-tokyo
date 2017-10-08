@@ -14,6 +14,7 @@
 #### Ramen :ramen:
 + Afuri: http://afuri.com/
 + Ippudo: http://www.ippudo.com/
++ Mouko Tanmen Nakamoto: https://www.yelp.com/biz/%E8%92%99%E5%8F%A4%E3%82%BF%E3%83%B3%E3%83%A1%E3%83%B3%E4%B8%AD%E6%9C%AC-%E6%B8%8B%E8%B0%B7%E5%BA%97-%E6%B8%8B%E8%B0%B7%E5%8C%BA
 
 #### Sushi :sushi:
 + Sushi zanmai: http://www.kiyomura.co.jp/
