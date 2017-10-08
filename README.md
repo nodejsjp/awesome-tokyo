@@ -1,7 +1,9 @@
 [awesome-link]:  https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[travis-link]:   https://travis-ci.org/nodejsjp/awesome-tokyo
+[travis-badge]:  https://travis-ci.org/nodejsjp/awesome-tokyo.svg?branch=master
 
-# Awesome Tokyo [![Awesome][awesome-badge]][awesome-link]
+# Awesome Tokyo [![Awesome][awesome-badge]][awesome-link] [![Travis Status][travis-badge]][travis-link]
 
 > Places you should visit in Tokyo.
 
