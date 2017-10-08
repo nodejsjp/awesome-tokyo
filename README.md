@@ -24,7 +24,7 @@
 
 ## Useful Links
 
-+ [japan-guide.com](https://www.japan-guide.com/) - Everything about modern and traditional Japan with emphasis on travel and living related information.
++ [japan-guide.com](https://www.japan-guide.com/) - Everything about modern and traditional Japan
 + [Japan National Tourism Organization](https://www.jnto.go.jp/eng/) - Official Japan tourism organization website
 + [Open Source Tokyo](https://github.com/opensourcecities/tokyo) - A directory of companies, people, and projects that are Open Source and from Tokyo
 
