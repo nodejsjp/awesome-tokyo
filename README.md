@@ -35,7 +35,7 @@
 ### Where to meet and work
 + OSS Cafe: http://www.osscafe.net/en/
 
-## Useful Links
+## Useful links
 
 + [japan-guide.com](https://www.japan-guide.com/) - Everything about modern and traditional Japan
 + [Japan National Tourism Organization](https://www.jnto.go.jp/eng/) - Official Japan tourism organization website
