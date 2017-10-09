@@ -17,9 +17,10 @@
 ### Where to ear and drink
 
 #### Ramen :ramen:
-+ Afuri: http://afuri.com/
-+ Ippudo: http://www.ippudo.com/
-+ Mouko Tanmen Nakamoto: https://www.yelp.com/biz/%E8%92%99%E5%8F%A4%E3%82%BF%E3%83%B3%E3%83%A1%E3%83%B3%E4%B8%AD%E6%9C%AC-%E6%B8%8B%E8%B0%B7%E5%BA%97-%E6%B8%8B%E8%B0%B7%E5%8C%BA
++ [AFURI](https://www.yelp.com/biz/%E9%98%BF%E5%A4%AB%E5%88%A9-%E6%81%B5%E6%AF%94%E5%AF%BF%E5%BA%97-%E6%B8%8B%E8%B0%B7%E5%8C%BA) - It is also in Ropponngi, Shibuya, Shinjuku. They have vegan menu.
++ [Ippudo](https://www.yelp.com/biz/%E4%B8%80%E9%A2%A8%E5%A0%82-%E6%96%B0%E5%AE%BF%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BF%E3%83%AF%E3%83%BC%E5%BA%97-%E6%96%B0%E5%AE%BF%E5%8C%BA) - It is also in Ropponngi, Shibuya, Shinjuku.
++ [Mouko Tanmen Nakamoto](https://www.yelp.com/biz/%E8%92%99%E5%8F%A4%E3%82%BF%E3%83%B3%E3%83%A1%E3%83%B3%E4%B8%AD%E6%9C%AC-%E6%B8%8B%E8%B0%B7%E5%BA%97-%E6%B8%8B%E8%B0%B7%E5%8C%BA) - It is also in Shibuya, Shinjuku.
++ [Tantan Tiger](https://www.yelp.com/biz/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC-%E5%8F%B0%E6%9D%B1%E5%8C%BA)
 
 #### Sushi :sushi:
 + Sushi zanmai: http://www.kiyomura.co.jp/
