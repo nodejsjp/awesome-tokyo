@@ -14,7 +14,7 @@
 + Tokyu Stay Shibuya: http://www.tokyustay.co.jp/e/hotel/SIB/
 + Shibuya Tokyu REI Hotel: http://www.tokyuhotelsjapan.com/en/hotel/TR/TR_SHIBU/index.html
 
-### Where to ear and drink
+### Where to eat and drink
 
 #### Ramen :ramen:
 + [AFURI](https://www.yelp.com/biz/%E9%98%BF%E5%A4%AB%E5%88%A9-%E6%81%B5%E6%AF%94%E5%AF%BF%E5%BA%97-%E6%B8%8B%E8%B0%B7%E5%8C%BA) - It is also in Ropponngi, Shibuya, Shinjuku. They have vegan menu.
