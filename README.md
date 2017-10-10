@@ -31,7 +31,7 @@
 + Rambo azabu: https://tabelog.com/tokyo/A1307/A130702/13127898/
 
 #### Soba
-+ Santouka: https://tabelog.com/en/tokyo/A1317/A131706/13005396/
++ Santoukou: https://tabelog.com/en/tokyo/A1317/A131706/13005396/
 
 ### Where to meet and work
 + OSS Cafe: http://www.osscafe.net/en/
