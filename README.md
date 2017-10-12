@@ -16,13 +16,13 @@
 
 ### Where to eat and drink
 
-In Japan, we use [Tabelog](https://tabelog.com/en/) to find great place and we also have [yelp](https://www.yelp.com/%E6%9D%B1%E4%BA%AC) but Tabelog is more popular than yelp. You can use it in English, Chinese and Korean. Tabelog provides awesome list called "[The Tabelog Award](https://tabelog.com/en/award/restaurant/rstlist/)". It helps you find great place to eat and drink.
+In Japan, we use [Tabelog](https://tabelog.com/en/) to find great place and we also have [yelp](https://www.yelp.com/%E6%9D%B1%E4%BA%AC) but Tabelog is more popular than yelp. You can use it in English, Chinese and Korean. Additionally, Tabelog provides awesome list called "[The Tabelog Award](https://tabelog.com/en/award/restaurant/rstlist/)". It helps you find great place to eat and drink. The following links are from Tabelog.
 
 #### Ramen :ramen:
-+ [AFURI](https://www.yelp.com/biz/%E9%98%BF%E5%A4%AB%E5%88%A9-%E6%81%B5%E6%AF%94%E5%AF%BF%E5%BA%97-%E6%B8%8B%E8%B0%B7%E5%8C%BA) - It is also in Ropponngi, Shibuya, Shinjuku. They have vegan menu.
-+ [Ippudo](https://www.yelp.com/biz/%E4%B8%80%E9%A2%A8%E5%A0%82-%E6%96%B0%E5%AE%BF%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%82%BF%E3%83%AF%E3%83%BC%E5%BA%97-%E6%96%B0%E5%AE%BF%E5%8C%BA) - It is also in Ropponngi, Shibuya, Shinjuku.
-+ [Mouko Tanmen Nakamoto](https://www.yelp.com/biz/%E8%92%99%E5%8F%A4%E3%82%BF%E3%83%B3%E3%83%A1%E3%83%B3%E4%B8%AD%E6%9C%AC-%E6%B8%8B%E8%B0%B7%E5%BA%97-%E6%B8%8B%E8%B0%B7%E5%8C%BA) - It is also in Shibuya, Shinjuku.
-+ [Tantan Tiger](https://www.yelp.com/biz/%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC-%E5%8F%B0%E6%9D%B1%E5%8C%BA)
++ [AFURI](https://tabelog.com/en/tokyo/A1303/A130302/13005500/) - It is also in Ropponngi, Shibuya, Shinjuku. They have vegan menu.
++ [Ippudo](https://tabelog.com/en/tokyo/A1304/A130401/13168295/) - It is also in Ropponngi, Shibuya, Shinjuku.
++ [Mouko Tanmen Nakamoto](https://tabelog.com/en/tokyo/A1303/A130301/13094387/) - If you really like spicy food, I recommned you go to there. You can eat quite spicy food. Most puplar menu is **Mouko Tanmen**. You can choose spicy level and from 1 to 9.
++ [Tantan Tiger](https://tabelog.com/en/tokyo/A1311/A131103/13198944/) - Souples Dam Dam Noodles. You can choose the topping. coriander
 
 #### Sushi :sushi:
 + Sushi zanmai: http://www.kiyomura.co.jp/
