@@ -55,8 +55,8 @@ We cannot find great place to eat and hack when we attend foreign conference so 
 1. Fork this repository
 2. Change name. e.g. awesome nodefest-2017
 3. Add these things:
-  - venues address
-  - hotels near venues
+   + venues address
+   + hotels near venues
 
 ## License
 
