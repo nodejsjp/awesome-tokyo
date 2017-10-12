@@ -48,6 +48,16 @@ In Japan, we use [Tabelog](https://tabelog.com/en/) to find great place and we a
 + [Japan National Tourism Organization](https://www.jnto.go.jp/eng/) - Official Japan tourism organization website
 + [Open Source Tokyo](https://github.com/opensourcecities/tokyo) - A directory of companies, people, and projects that are Open Source and from Tokyo
 
+## To event organizer :raised_hands:
+
+We cannot find great place to eat and hack when we attend foreign conference so we have created the curated list. It will help you but it is not enough because we think you would like to customize this list with focus on venues. We prepared the step to create your own great list for you and your friends.
+
+1. Fork this repository
+2. Change name. e.g. awesome nodefest-2017
+3. Add these things:
+  - venues address
+  - hotels near venues
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
