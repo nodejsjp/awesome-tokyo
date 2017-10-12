@@ -38,6 +38,11 @@ In Japan, we use [Tabelog](https://tabelog.com/en/) to find great place and we a
 ### Where to meet and work
 + OSS Cafe: http://www.osscafe.net/en/
 
+## Communities
++ Nodeschool Tokyo: https://nodeschool.io/tokyo/
++ Nodeschool Osaka: https://nodeschool.io/osaka/
++ Nodeschool Fukui: https://nodeschool.io/fukui/
+
 ## Useful links
 
 + [japan-guide.com](https://www.japan-guide.com/) - Everything about modern and traditional Japan
