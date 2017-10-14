@@ -50,13 +50,13 @@ In Japan, we use [Tabelog](https://tabelog.com/en/) to find great place and we a
 
 ## To event organizer :raised_hands:
 
-We cannot find great place to eat and hack when we attend foreign conference so we have created the curated list. It will help you but it is not enough because we think you would like to customize this list with focus on venues. We prepared the step to create your own great list for you and your friends.
+The purpose of curating something in Tokyo is to help people find great place to eat and hack because we could not find these things easily when we have attended foreign conference before. We would like to help a lot of people have safe and fun travel throughout the curated list. On the other hand, it is not enough because we cannot custmize it for each conference but we think you may not want to create the list from scratch so we prepare following steps to do it. Have a fun!
 
-1. Fork this repository
-2. Change name. e.g. awesome nodefest-2017
-3. Add these things:
-   + venues address
-   + hotels near venues
+1. Fork the project.
+2. Change name for your event. E.g. `awesome-nodefest-2017`
+3. Customize forked list :sparkles: :
+   + Add venues address
+   + List hotels near venues
 
 ## License
 
