@@ -48,6 +48,23 @@ In Japan, we use [Tabelog](https://tabelog.com/en/) and [yelp](https://www.yelp.
 + [Japan National Tourism Organization](https://www.jnto.go.jp/eng/) - The official Japan tourism organization website.
 + [Open Source Tokyo](https://github.com/opensourcecities/tokyo) - A directory of companies, people, and projects that are Open Source and from Tokyo.
 
+## Hotels near from NodeFest 2017
+
+Our venue is near from Ichigaya (Day 1) and Tokyo (Day 2) station.
+We will recommend `Akihabara` station. Because Akihabara is near from both the stations.
+
++ Grids Akihabara, not so expensive, you can get Japanese atmosphere, and recommended many global visitors. https://www.grids-hostel.com/hostels/akihabara/ 
++ Washinton Hotel Akihabara, luxurious and recommended hotel (but I cannot find empty room.)  http://akihabara.washington-hotels.jp/
++ Keikyu EX Inn, standard and normal hotel. http://www.keikyu-exinn.co.jp/hotel/akihabara/languages/en.html
+
+The below hotels are not Akihabara, but near from NodeFest.
+
++ Tokyu Stay Suidobashi http://www.tokyustay.co.jp/hotel/SUI/
++ Tokyu Stay Nihombashi http://www.tokyustay.co.jp/e/hotel/NI/
++ Villa Fontaine https://www.hvf.jp/eng/
++ Hotel Grand Hill http://www.ghi.gr.jp/en/accommodation/ 
+
+
 ## To event organizers :raised_hands:
 
 The purpose of curating something in Tokyo is to help people find great places to eat and hack because we could not find these things easily when we attended foreign conferences before. We would like to help a lot of people have safe and fun travel throughout the curated list. On the other hand, the list is not enough because we cannot customize it for each conference, but we think you may not want to create the list from scratch, so we prepare following steps to do it. Have a fun!
