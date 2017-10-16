@@ -50,20 +50,18 @@ In Japan, we use [Tabelog](https://tabelog.com/en/) and [yelp](https://www.yelp.
 
 ## Hotels near from NodeFest 2017
 
-Our venue is near from Ichigaya (Day 1) and Tokyo (Day 2) station.
-We will recommend `Akihabara` station. Because Akihabara is near from both the stations.
+For this year, we have two different venues. One is near from Ichigaya-station(Day 1) and the other one is around Tokyo-station(Day 2). To stay, we'd recomment Akihabara station since it's placed between the two.
 
-+ Grids Akihabara, not so expensive, you can get Japanese atmosphere, and recommended many global visitors. https://www.grids-hostel.com/hostels/akihabara/ 
-+ Washinton Hotel Akihabara, luxurious and recommended hotel (but I cannot find empty room.)  http://akihabara.washington-hotels.jp/
-+ Keikyu EX Inn, standard and normal hotel. http://www.keikyu-exinn.co.jp/hotel/akihabara/languages/en.html
++ Grids Akihabara: This is not so expensive, but you can see Japanese tradisional stuff. It's recommended by many medias for visitors. https://www.grids-hostel.com/hostels/akihabara/ 
++ Washinton Hotel Akihabara: luxury hotel(, but we couldn't find empty room today..)  http://akihabara.washington-hotels.jp/
++ Keikyu EX Inn: Very basic hotel. http://www.keikyu-exinn.co.jp/hotel/akihabara/languages/en.html
 
-The below hotels are not Akihabara, but near from NodeFest.
+The following hotels are not at Akihabara, but they are also near from the venues.
 
 + Tokyu Stay Suidobashi http://www.tokyustay.co.jp/hotel/SUI/
 + Tokyu Stay Nihombashi http://www.tokyustay.co.jp/e/hotel/NI/
 + Villa Fontaine https://www.hvf.jp/eng/
 + Hotel Grand Hill http://www.ghi.gr.jp/en/accommodation/ 
-
 
 ## To event organizers :raised_hands:
 
