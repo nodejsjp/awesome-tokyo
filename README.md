@@ -5,26 +5,46 @@
 
 # Awesome Tokyo [![Awesome][awesome-badge]][awesome-link] [![Travis Status][travis-badge]][travis-link]
 
-> Places you should visit in Tokyo.
+> All about your stay in Tokyo, where to go: how to get around.
 
-## City guide
+This year our event will be in the conference center of the [Yahoo Japan Corporation](https://goo.gl/maps/tP2oMFnUssR2) in the Chiyoda ward.
 
-### Where to stay
-+ SHIBUYA GRANBELL HOTEL: http://www.granbellhotel.jp/en/shibuya/
-+ Tokyu Stay Shibuya: http://www.tokyustay.co.jp/e/hotel/SIB/
-+ Shibuya Tokyu REI Hotel: http://www.tokyuhotelsjapan.com/en/hotel/TR/TR_SHIBU/index.html
+_(Note: The nearby imperial garden, forms a nice circle, used by many for their morning/evening runs.)_
 
-### Where to eat and drink
+## Mobile Wifi/SIM
+
+Japan has a strong mobile internet network, and for tourist use it is possible to get both tourist SIM cards as well as rent mobile Wifi boxes. You can either pick up at the airport and/or preorder it to be sent to your Hotel.
+
++ [List of SIM/Wifi shops at Narita Airport](https://www.narita-airport.jp/en/service/svc_19)
++ [eConnect Japan](https://www.econnectjapan.com/) offers SIM & Wifi online ordering.
++ There are some offerings [on Amazon.jp](https://www.amazon.co.jp/s/gp/search/ref=sr_nr_p_n_feature_twenty_b_1?fst=as%3Aoff&rh=n%3A5470982051%2Ck%3ATravel+SIM%2Cp_n_feature_twenty_browse-bin%3A5470990051&keywords=Travel+SIM&ie=UTF8&qid=1541830640&rnid=5470989051) which works usually smooth in english - if you want to compare prices. They can be sent to your Hotel, delivers usually within two days.
+
+## Where to stay
+
++ [AKASAKA EXCEL HOTEL](https://www.tokyuhotelsjapan.com/global/akasaka-e/#_ga=2.8332656.390268979.1538998452-1204382041.1538998452)
++ [Centurion Hotel](http://www.centurion-hotel.com/residential/lang/en/)
+
+## Metro Stations
+
+- [Getting around in Tokyo](https://trulytokyo.com/getting-around-tokyo/) - TL;DR: [Use Train & Metro](https://trulytokyo.com/tokyo-subways-and-trains/)
+
+Stations nearby NodeFest 2018:
+
+[<img src="https://i.gyazo.com/602b8cc93c1680a6d361cbb1ac64b86b.png" width="45%" title="Akasaka Mitsuke Station">](https://goo.gl/maps/gU328ejsbX42)
+[<img src="https://i.gyazo.com/b179029cb2005fbee339bc8c2e7f295a.png" width="45%" title="Nagatacho Station">](https://goo.gl/maps/8Sfg8MuywLC2)
+[<img src="https://i.gyazo.com/fe4647b2d63e75077f37dc50fdaaed6a.png" width="45%" title="Yotsuya Station">](https://goo.gl/maps/oAamaaAw1k52)
+
+## Where to eat and drink
 
 In Japan, we use [Tabelog](https://tabelog.com/en/) and [yelp](https://www.yelp.com/%E6%9D%B1%E4%BA%AC) to find places to eat and drink. However, Tabelog is more popular than yelp. You can use Tabelog in English, Chinese and Korean. Additionally, Tabelog provides an awesome list called "The Tabelog Award". It helps you to find some of the best places to eat and drink around the city. The following links are from Tabelog.
 
-#### Ramen :ramen:
-+ [AFURI](https://tabelog.com/en/tokyo/A1303/A130302/13005500/) - It is also in Ropponngi, Shibuya, Shinjuku. They have a vegan menu.
-+ [Ippudo](https://tabelog.com/en/tokyo/A1304/A130401/13168295/) - It is also in Ropponngi, Shibuya, Shinjuku.
-+ [Mouko Tanmen Nakamoto](https://tabelog.com/en/tokyo/A1303/A130301/13094387/) - If you really like spicy food, I recommend you to go there. If you don't want it to be too spicy for you, the most popular menu is **Mouko Tanmen**. You can choose a spicy level from 1 to 9.
+### Ramen :ramen:
++ [Akasakawaizuseimen (あか坂 わいず製麪)](https://tabelog.com/en/tokyo/A1308/A130801/13193088/)
++ [Tenkai-ippin](https://tabelog.com/en/tokyo/A1308/A130801/13195122/) - working-class Ramen
++ [AFURI](https://goo.gl/maps/yQ6FZaSyV6m) - Is a bit far but they have a vegan menu. Also in other places in Tokyo.
 + [Tantan Tiger](https://tabelog.com/en/tokyo/A1311/A131103/13198944/) - Souples Dam Dam Noodles. You can choose the topping. coriander
 
-#### Sushi :sushi:
+### Sushi :sushi:
 + Sushi zanmai: http://www.kiyomura.co.jp/
 + Shunkashuutou: https://tabelog.com/cn/tokyo/A1303/A130301/13014528/
 
@@ -36,7 +56,7 @@ In Japan, we use [Tabelog](https://tabelog.com/en/) and [yelp](https://www.yelp.
 + Santoukou: https://tabelog.com/en/tokyo/A1317/A131706/13005396/
 
 ### Where to meet and work
-+ OSS Cafe: http://www.osscafe.net/en/
++ OSS Cafe: https://osscafe.business.site/
 
 ## Communities
 + Nodeschool Tokyo: https://nodeschool.io/tokyo/
@@ -47,21 +67,6 @@ In Japan, we use [Tabelog](https://tabelog.com/en/) and [yelp](https://www.yelp.
 + [japan-guide.com](https://www.japan-guide.com/) - Everything about modern and traditional Japan.
 + [Japan National Tourism Organization](https://www.jnto.go.jp/eng/) - The official Japan tourism organization website.
 + [Open Source Tokyo](https://github.com/opensourcecities/tokyo) - A directory of companies, people, and projects that are Open Source and from Tokyo.
-
-## Hotels near from NodeFest 2017
-
-For this year, we have two different venues. One is near from Ichigaya-station(Day 1) and the other one is around Tokyo-station(Day 2). To stay, we'd recomment Akihabara station since it's placed between the two.
-
-+ Grids Akihabara: This is not so expensive, but you can see Japanese tradisional stuff. It's recommended by many medias for visitors. https://www.grids-hostel.com/hostels/akihabara/ 
-+ Washinton Hotel Akihabara: luxury hotel(, but we couldn't find empty room today..)  http://akihabara.washington-hotels.jp/
-+ Keikyu EX Inn: Very basic hotel. http://www.keikyu-exinn.co.jp/hotel/akihabara/languages/en.html
-
-The following hotels are not at Akihabara, but they are also near from the venues.
-
-+ Tokyu Stay Suidobashi http://www.tokyustay.co.jp/hotel/SUI/
-+ Tokyu Stay Nihombashi http://www.tokyustay.co.jp/e/hotel/NI/
-+ Villa Fontaine https://www.hvf.jp/eng/
-+ Hotel Grand Hill http://www.ghi.gr.jp/en/accommodation/ 
 
 ## To event organizers :raised_hands:
 
