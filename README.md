@@ -56,7 +56,7 @@ In Japan, we use [Tabelog](https://tabelog.com/en/) and [yelp](https://www.yelp.
 + Santoukou: https://tabelog.com/en/tokyo/A1317/A131706/13005396/
 
 ### Where to meet and work
-+ OSS Cafe: http://www.osscafe.net/en/
++ OSS Cafe: https://osscafe.business.site/
 
 ## Communities
 + Nodeschool Tokyo: https://nodeschool.io/tokyo/
