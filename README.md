@@ -48,20 +48,16 @@ In Japan, we use [Tabelog](https://tabelog.com/en/) and [yelp](https://www.yelp.
 + [Japan National Tourism Organization](https://www.jnto.go.jp/eng/) - The official Japan tourism organization website.
 + [Open Source Tokyo](https://github.com/opensourcecities/tokyo) - A directory of companies, people, and projects that are Open Source and from Tokyo.
 
-## Hotels near from NodeFest 2017
+## Near NodeFest 2018
 
-For this year, we have two different venues. One is near from Ichigaya-station(Day 1) and the other one is around Tokyo-station(Day 2). To stay, we'd recomment Akihabara station since it's placed between the two.
+This year our event will be in the conference center of the [Yahoo Japan Corporation](https://goo.gl/maps/tP2oMFnUssR2).
 
-+ Grids Akihabara: This is not so expensive, but you can see Japanese tradisional stuff. It's recommended by many medias for visitors. https://www.grids-hostel.com/hostels/akihabara/ 
-+ Washinton Hotel Akihabara: luxury hotel(, but we couldn't find empty room today..)  http://akihabara.washington-hotels.jp/
-+ Keikyu EX Inn: Very basic hotel. http://www.keikyu-exinn.co.jp/hotel/akihabara/languages/en.html
+## Train Stations closeby
 
-The following hotels are not at Akihabara, but they are also near from the venues.
+[![Akasaka Mitsuke Station](https://i.gyazo.com/602b8cc93c1680a6d361cbb1ac64b86b.png)](https://goo.gl/maps/gU328ejsbX42)
+[![Nagatacho Station](https://i.gyazo.com/b179029cb2005fbee339bc8c2e7f295a.png)](https://goo.gl/maps/8Sfg8MuywLC2)
+[![Yotsuya Station](https://i.gyazo.com/fe4647b2d63e75077f37dc50fdaaed6a.png)](https://goo.gl/maps/oAamaaAw1k52)
 
-+ Tokyu Stay Suidobashi http://www.tokyustay.co.jp/hotel/SUI/
-+ Tokyu Stay Nihombashi http://www.tokyustay.co.jp/e/hotel/NI/
-+ Villa Fontaine https://www.hvf.jp/eng/
-+ Hotel Grand Hill http://www.ghi.gr.jp/en/accommodation/ 
 
 ## To event organizers :raised_hands:
 
