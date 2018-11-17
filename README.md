@@ -18,6 +18,16 @@ Japan has a strong mobile internet network, and for tourist use it is possible t
 + [List of SIM/Wifi shops at Narita Airport](https://www.narita-airport.jp/en/service/svc_19)
 + [eConnect Japan](https://www.econnectjapan.com/) offers SIM & Wifi online ordering.
 + There are some offerings [on Amazon.jp](https://www.amazon.co.jp/s/gp/search/ref=sr_nr_p_n_feature_twenty_b_1?fst=as%3Aoff&rh=n%3A5470982051%2Ck%3ATravel+SIM%2Cp_n_feature_twenty_browse-bin%3A5470990051&keywords=Travel+SIM&ie=UTF8&qid=1541830640&rnid=5470989051) which works usually smooth in english - if you want to compare prices. They can be sent to your Hotel, delivers usually within two days.
++ For tourists 
+
+## Wifi
+
+Wifi can be available occassionally for free in Japan.
+
++ For your mobile phone there is the [NTT's free wifi service for tourists](http://www.ntt-bp.net/jcfw/en.html) - Android/iOS only
++ Starbucks offers unlimited, login-based Wifi in all their stores.
++ Family-mart offers 3 x 20minutes per Day free Wifi 
++ McDonalds allows Wifi limited to 1h per session. Reconnect required, Reconnect doesn't work immediately.
 
 ## Where to stay
 
